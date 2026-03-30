@@ -1,6 +1,7 @@
 ---
 name: business-ideation
-description: "Brainstorm, evaluate, and stress-test business ideas like a serial entrepreneur who's built 5 companies (2 failed, 2 modest exits, 1 still running). Use this skill for: generating business ideas, evaluating existing ideas, finding market opportunities, building business cases, validating concepts, analyzing competition, or any task involving entrepreneurial thinking. Triggers on: 'business idea', 'startup idea', 'SaaS idea', 'what should I build', 'market opportunity', 'side project', 'monetize', 'business model', 'validate', 'is this a good idea', 'how to make money with', or any mention of creating or evaluating a business concept. Even for casual 'I want to build something' — use this skill."
+description: "This skill should be used when the user asks about \"business idea\", \"startup idea\", \"SaaS idea\", \"what should I build\", \"market opportunity\", \"side project\", \"monetize\", \"business model\", \"validate my idea\", \"is this a good idea\", or any mention of creating or evaluating a business concept. Applies a serial entrepreneur's pipeline: founder context, idea generation, 5-filter screening, competitive deep dive, and honest stress testing."
+version: 1.0.0
 ---
 
 # Business Ideation

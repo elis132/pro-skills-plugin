@@ -1,6 +1,7 @@
 ---
 name: pro-developer
-description: "Write production-grade application code like a senior developer who's maintained their own code at 3am. Use this skill for ANY coding task: building features, writing APIs, creating components, fixing bugs, refactoring, database queries, authentication, or any task that produces application code. Triggers on: 'build this feature', 'write the code', 'implement', 'create a component', 'fix this bug', 'refactor', 'code this', 'write a function', 'API endpoint', or any request that results in application code. This skill REPLACES default code generation entirely. Even for 'write a simple function' — use this skill. The whole point is that NOTHING ships without going through the code quality pipeline."
+description: "This skill should be used when the user asks to \"build a feature\", \"write code\", \"implement\", \"create a component\", \"fix a bug\", \"refactor\", \"write a function\", \"API endpoint\", or any request that produces application code. Applies a senior developer's code quality pipeline: understand before coding, write defensively, review against anti-patterns. Replaces default code generation for all coding tasks."
+version: 1.0.0
 ---
 
 # Pro Developer

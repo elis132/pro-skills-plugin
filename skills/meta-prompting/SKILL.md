@@ -1,6 +1,7 @@
 ---
 name: meta-prompting
-description: "Write better prompts, system prompts, skills, and AI instructions. Use this skill when the user wants to: write a prompt, improve a prompt, create a skill or custom instruction set, build a system prompt, optimize AI output quality, debug why an AI isn't producing good results, write a SKILL.md file, create reference documents for AI consumption, or understand how to communicate more effectively with language models. Triggers on: 'write a prompt', 'improve this prompt', 'why isn't the AI doing X', 'build a skill', 'system prompt', 'custom instructions', 'make the AI better at', 'prompt engineering', or any request about crafting instructions for AI systems."
+description: "This skill should be used when the user asks to \"write a prompt\", \"improve this prompt\", \"build a skill\", \"system prompt\", \"custom instructions\", \"prompt engineering\", \"why isn't the AI doing X\", \"make the AI better at\", or any request about crafting instructions for AI systems. Applies a structured pipeline for designing prompts, skills, and instruction sets that produce consistent, high-quality AI output."
+version: 1.0.0
 ---
 
 # Meta-Prompting

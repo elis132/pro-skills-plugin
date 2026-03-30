@@ -1,6 +1,7 @@
 ---
 name: pro-ui-design
-description: "Produce frontend designs that look like a senior UI/UX designer with 20 years of experience made them — never like AI output. Use this skill for ANY frontend task: websites, landing pages, dashboards, components, apps, React, HTML/CSS, artifacts, or any UI work. Triggers on: 'build a website', 'design a page', 'create a dashboard', 'make it look good', 'landing page', 'UI', 'UX', 'frontend', 'web design', 'component', 'styled', 'beautiful', or any request involving visual interface creation. This skill REPLACES default frontend generation behavior entirely. Even if the user just says 'make a simple page' — use this skill. The whole point is that NOTHING leaves without going through the design pipeline."
+description: "This skill should be used when the user asks to \"build a website\", \"design a page\", \"create a dashboard\", \"make it look good\", \"landing page\", \"frontend\", \"UI\", \"UX\", \"web design\", or any request involving visual interface creation. Applies a senior designer's pipeline: anti-pattern avoidance, typography, color systems, layout grids, motion design, and self-review. Replaces default frontend generation for all UI work."
+version: 1.0.0
 ---
 
 # Pro UI Design

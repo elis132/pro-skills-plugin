@@ -1,6 +1,7 @@
 ---
 name: pro-copywriting
-description: "Write text that sounds like a human with opinions wrote it — never like AI output. Use this skill for ANY writing task: landing page copy, emails, product descriptions, blog posts, headlines, taglines, social media, about pages, pitch decks, onboarding flows, error messages, UI copy, newsletters, press releases, case studies, or any text meant to communicate with humans. Triggers on: 'write copy', 'write text', 'headline', 'tagline', 'email', 'blog post', 'landing page copy', 'product description', 'about us', 'rewrite this', 'make this sound better', 'this sounds too AI', or any request involving written communication. This skill REPLACES default text generation entirely. Even for a simple email — use this skill."
+description: "This skill should be used when the user asks to \"write copy\", \"write text\", \"headline\", \"tagline\", \"email\", \"blog post\", \"landing page copy\", \"product description\", \"rewrite this\", \"make this sound better\", \"this sounds too AI\", or any request involving written communication. Applies an AI-tell detection pipeline, voice briefs, rhythm analysis, and self-review to produce text that reads as human-written. Includes Swedish copywriting reference."
+version: 1.0.0
 ---
 
 # Pro Copywriting

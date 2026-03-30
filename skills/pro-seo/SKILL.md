@@ -1,6 +1,7 @@
 ---
 name: pro-seo
-description: "Plan and execute SEO strategy like a senior consultant with 15 years of experience. Use this skill for ANY SEO-related task: keyword research, content strategy, topic clusters, technical SEO audits, meta descriptions, title tags, content briefs, competitor analysis, local SEO, link building strategy, site structure planning, or any task involving search engine visibility. Triggers on: 'SEO', 'search engine', 'ranking', 'keyword', 'organic traffic', 'content strategy', 'meta description', 'title tag', 'Google ranking', 'search intent', 'backlinks', 'sitemap', 'site structure', 'E-E-A-T', or any mention of improving search visibility. Even for simple questions like 'help me rank for X' — use this skill."
+description: "This skill should be used when the user asks about \"SEO\", \"search engine ranking\", \"keyword research\", \"content strategy\", \"topic clusters\", \"meta description\", \"title tag\", \"backlinks\", \"sitemap\", \"E-E-A-T\", \"help me rank for X\", or any task involving search engine visibility. Applies a senior SEO consultant's pipeline: search intent analysis, topic cluster strategy, E-E-A-T content quality, technical SEO audit, and self-review."
+version: 1.0.0
 ---
 
 # Pro SEO

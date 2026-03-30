@@ -1,6 +1,7 @@
 ---
 name: pro-system-design
-description: "Design backend systems, APIs, and data architectures like a senior engineer with 20 years of production experience. Use this skill for ANY architecture or backend task: choosing databases, designing APIs, planning system architecture, scaling decisions, infrastructure choices, data modeling, choosing between frameworks, monolith vs microservices, queue systems, caching strategies, deployment architecture, or any technical design decision. Triggers on: 'design a system', 'what database should I use', 'how should I architect', 'API design', 'schema design', 'should I use microservices', 'tech stack', 'system architecture', 'backend', 'infrastructure', 'scaling', 'database choice', or any request involving technical architecture decisions. Even for simple questions like 'should I use Postgres or SQLite' — use this skill."
+description: "This skill should be used when the user asks to \"design a system\", \"what database should I use\", \"how should I architect\", \"API design\", \"schema design\", \"should I use microservices\", \"tech stack\", \"system architecture\", \"infrastructure\", \"scaling\", or any request involving technical architecture decisions. Applies a senior engineer's pipeline: requirements analysis, trade-off evaluation, simplicity-first design, failure mode analysis, and architecture review."
+version: 1.0.0
 ---
 
 # Pro System Design

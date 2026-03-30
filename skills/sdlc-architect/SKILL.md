@@ -1,6 +1,7 @@
 ---
 name: sdlc-architect
-description: "Run a complete software development lifecycle from idea to deployment, acting as each specialist role in sequence: Product Manager, System Architect, UX Designer, UI Designer, Frontend Dev, Backend Dev, QA Engineer, DevOps. Use this skill for: building a complete application, planning a new project end-to-end, taking a vague idea and turning it into a shippable product, or any task where multiple development disciplines need to coordinate. Triggers on: 'build an app', 'build a complete', 'full project', 'plan and build', 'take this from idea to production', 'SDLC', 'help me build', 'I want to create a SaaS', 'build me a product', or any request that implies a multi-phase development effort. Even for 'I have an idea for an app' — use this skill."
+description: "This skill should be used when the user asks to \"build an app\", \"build a complete project\", \"plan and build\", \"take this from idea to production\", \"SDLC\", \"I want to create a SaaS\", \"build me a product\", or any request implying a multi-phase development effort. Runs a full software development lifecycle as sequential specialist roles: Product Manager, System Architect, UX/UI Designer, Developer, QA Engineer, and DevOps."
+version: 1.0.0
 ---
 
 # SDLC Architect
