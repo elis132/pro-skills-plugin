@@ -1,0 +1,36 @@
+{
+  "name": "pro-skills-marketplace",
+  "owner": {
+    "name": "elis132",
+    "url": "https://github.com/elis132"
+  },
+  "metadata": {
+    "description": "Professional-grade skills for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "pro-skills",
+      "description": "8 professional skills: pro-developer, pro-ui-design, pro-copywriting, pro-seo, pro-system-design, business-ideation, meta-prompting, and sdlc-architect. Each applies a senior specialist's pipeline with anti-pattern detection and deep reference materials.",
+      "source": "./",
+      "version": "1.0.0",
+      "author": {
+        "name": "elis132",
+        "url": "https://github.com/elis132"
+      },
+      "homepage": "https://github.com/elis132/pro-skills-plugin",
+      "license": "MIT",
+      "keywords": [
+        "development",
+        "ui-design",
+        "copywriting",
+        "seo",
+        "system-design",
+        "business-ideation",
+        "meta-prompting",
+        "sdlc",
+        "code-quality"
+      ]
+    }
+  ]
+}
