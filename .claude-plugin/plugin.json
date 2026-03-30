@@ -1,0 +1,24 @@
+{
+  "name": "pro-skills",
+  "version": "1.0.0",
+  "description": "Professional-grade skills for development, UI design, copywriting, SEO, system design, business ideation, meta-prompting, and full SDLC architecture.",
+  "author": {
+    "name": "elis132",
+    "url": "https://github.com/elis132"
+  },
+  "homepage": "https://github.com/elis132/pro-skills-plugin",
+  "repository": "https://github.com/elis132/pro-skills-plugin",
+  "license": "MIT",
+  "keywords": [
+    "development",
+    "ui-design",
+    "copywriting",
+    "seo",
+    "system-design",
+    "business-ideation",
+    "meta-prompting",
+    "sdlc",
+    "code-quality",
+    "design-patterns"
+  ]
+}
