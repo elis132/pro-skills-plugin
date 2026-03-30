@@ -18,7 +18,9 @@ Professional-grade skills for Claude Code. Each skill applies a senior specialis
 ## Install
 
 ```bash
-claude install github:elis132/pro-skills-plugin
+/plugin marketplace add elis132/pro-skills-plugin
+/plugin install pro-skills@pro-skills-marketplace
+/reload-plugins
 ```
 
 ## How it works
@@ -38,6 +40,17 @@ skills/pro-developer/
 ```
 
 Skills trigger automatically based on what you ask. Every coding request routes through pro-developer. Every writing request routes through pro-copywriting. And so on.
+
+## What makes these different
+
+Most skill collections are shallow checklists. These skills are built around **anti-pattern pipelines** — they start by identifying what AI does wrong by default, then provide a step-by-step process to avoid those patterns.
+
+Each skill includes:
+- A persona with strong opinions and real-world experience
+- Specific anti-patterns to detect and avoid
+- A multi-step pipeline (understand → execute → review)
+- Deep reference materials loaded on demand (39 reference files total)
+- A self-review checklist to catch issues before presenting
 
 ## License
 
